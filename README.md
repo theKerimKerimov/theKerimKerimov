@@ -4,7 +4,7 @@
 
 🌱 Learning advanced algorithms and practical ML applications.
 
-👯 Open to collaboration on data science and coding projects.
+🤝 Open to collaboration on Data Science and coding projects.
 
 🤔 Growing towards mid-level roles in data science and software development.
 
