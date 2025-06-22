@@ -11,4 +11,4 @@
 📫 Reach me on Telegram: [@theDagestani](https://t.me/theDagestani)
 
 🚀 Check out my LeetCode solutions:  
-[github.com/theKerimKerimov/leetcode](https://github.com/theKerimKerimov/leetcode)
+[LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
