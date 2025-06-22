@@ -6,7 +6,7 @@
 
 🤝 Открыт к сотрудничеству над проектами в области анализа данных и машинного обучения.
 
-🤔 Стремлюсь к профессиональному росту в направлении Data Science и разработки ПО.
+🤔 Стремлюсь к профессиональному росту в направлении Data Science и ML.
 
 🎓 Бакалавр экономики, РАНХиГС
 
@@ -25,7 +25,7 @@
 
 🤝 Open to collaboration on Data Science and ML projects.
 
-🤔 Growing towards mid-level roles in data science and software development.
+🤔 Growing towards mid-level roles in Data Science and ML.
 
 🎓 Bachelor’s degree in Economics from RANEPA
 
