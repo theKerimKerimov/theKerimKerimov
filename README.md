@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**theKerimKerimov/theKerimKerimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Improving my skills in Python, SQL, Data Science & Machine Learning.
 
-Here are some ideas to get you started:
+🌱 Learning advanced algorithms and practical ML applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Open to collaboration on data science and coding projects.
+
+🤔 Growing towards mid-level roles in data science and software development.
+
+📫 Reach me on Telegram: [@theDagestani](https://t.me/theDagestani)
+
+🚀 Check out my LeetCode solutions:  
+[github.com/theKerimKerimov/leetcode](https://github.com/theKerimKerimov/leetcode)
