@@ -1,6 +1,6 @@
 ## Привет! 👋
 
-🔭 Развиваю навыки в Python, SQL, Data Science и машинном обучении.
+🔭 Развиваю навыки в Data Science и машинном обучении.
 
 🌱 Изучаю алгоритмы, структуры данных и практические применения ML.
 
@@ -19,7 +19,7 @@
 
 ## Hi there 👋
 
-🔭 Improving my skills in Python, SQL, Data Science & Machine Learning.
+🔭 Improving my skills in Data Science & Machine Learning.
 
 🌱 Learning advanced algorithms and practical ML applications.
 
