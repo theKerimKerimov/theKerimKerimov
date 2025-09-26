@@ -1,3 +1,5 @@
+# 🇷🇺 Русская версия
+
 # Привет! 👋
 
 Я — **AI-Финансист**, развивающий навыки в **Data Science** и **Machine Learning**.  
@@ -42,7 +44,9 @@
 - AI/ML проекты в финансах: прогнозирование, оптимизация портфеля, кредитный скоринг  
 - Решения задач с LeetCode — [ссылка](https://github.com/theKerimKerimov/leetcode)
 
-**---**
+---
+
+# 🇬🇧 English Version
 
 # Hello! 👋
 
