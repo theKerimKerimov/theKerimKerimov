@@ -25,7 +25,7 @@
 
 🤝 Open to collaboration on Data Science and ML projects.
 
-🤔 Growing towards mid-level roles in Data Science and ML.
+🤔 Seeking professional growth in Data Science and ML.
 
 🎓 Bachelor’s degree in Economics from RANEPA
 
