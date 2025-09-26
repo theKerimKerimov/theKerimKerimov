@@ -15,6 +15,9 @@
 🚀 Мои решения задач с LeetCode:  
 [LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
 
+📊 Kaggle:  
+[Kaggle profile](https://www.kaggle.com/kerimkerimov)
+
 ---
 
 ## Hi there 👋
@@ -33,3 +36,6 @@
 
 🚀 Check out my LeetCode solutions:  
 [LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
+
+📊 Reach me on Kaggle:  
+[Kaggle profile](https://www.kaggle.com/kerimkerimov)
