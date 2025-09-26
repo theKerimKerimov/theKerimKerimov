@@ -19,7 +19,7 @@
 ---
 
 ## 🎓 Образование
-**РАНХиГС**, Бакалавр экономики (2016–2020)  
+РАНХиГС, **Бакалавр экономики** (2016–2020)  
 Факультет финансов и банковского дела, направление: учет, анализ и аудит
 
 ---
@@ -69,7 +69,7 @@ I am an **AI Financier**, developing skills in **Data Science** and **Machine Le
 ---
 
 ## 🎓 Education
-**RANEPA**, Bachelor of Economics (2016–2020)  
+RANEPA, **Bachelor of Economics** (2016–2020)  
 Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditing
 
 ---
