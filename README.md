@@ -50,6 +50,8 @@
 
 # EN
 
+---
+
 # Hello! 👋
 
 I am an **AI Financier**, developing skills in **Data Science** and **Machine Learning**.  
