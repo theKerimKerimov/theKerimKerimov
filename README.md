@@ -1,53 +1,6 @@
-## Привет! 👋
-
-🔭 Развиваю навыки в Data Science и машинном обучении.
-
-🌱 Изучаю алгоритмы, структуры данных и практические применения ML.
-
-🤝 Открыт к сотрудничеству над проектами в области анализа данных и машинного обучения.
-
-🤔 Стремлюсь к профессиональному росту в направлении Data Science и ML.
-
-🎓 Бакалавр экономики, РАНХиГС
-
-📫 Telegram: [@theDagestani](https://t.me/theDagestani)
-
-🚀 Мои решения задач с LeetCode:  
-[LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
-
-📊 Kaggle:  
-[Kaggle profile](https://www.kaggle.com/kerimkerimov)
-
----
-
-## Hi there 👋
-
-🔭 Improving my skills in Data Science & Machine Learning.
-
-🌱 Learning advanced algorithms and practical ML applications.
-
-🤝 Open to collaboration on Data Science and ML projects.
-
-🤔 Seeking professional growth in Data Science and ML.
-
-🎓 Bachelor’s degree in Economics from RANEPA
-
-📫 Reach me on Telegram: [@theDagestani](https://t.me/theDagestani)
-
-🚀 Check out my LeetCode solutions:  
-[LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
-
-📊 Reach me on Kaggle:  
-[Kaggle profile](https://www.kaggle.com/kerimkerimov)
-
-
-
-
-
-
 # Привет! 👋
 
-Я — Карим, **AI-Финансист**, развивающий навыки в **Data Science** и **Machine Learning**.  
+Я — **AI-Финансист**, развивающий навыки в **Data Science** и **Machine Learning**.  
 
 ---
 
@@ -62,11 +15,13 @@
 ---
 
 ## 🎓 Образование
-**Бакалавр экономики**, РАНХиГС
+**РАНХиГС**, Бакалавр экономики (2016–2020)  
+Факультет финансов и банковского дела, направление: учет, анализ и аудит
 
 ---
 
 ## 📫 Контакты
+- Почта: k.kerimow@yandex.ru
 - Telegram: [@theDagestani](https://t.me/theDagestani)  
 - Kaggle: [Kaggle profile](https://www.kaggle.com/kerimkerimov)  
 - LeetCode решения: [LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
@@ -85,5 +40,51 @@
 - Разбор и предсказание рейтингов отелей (Booking.com)  
 - Анализ пользовательских данных и построение рекомендаций  
 - AI/ML проекты в финансах: прогнозирование, оптимизация портфеля, кредитный скоринг  
-- Решения задач с LeetCode — [ссылка](https://github.com/theKerimKerimov/leetcode)  
+- Решения задач с LeetCode — [ссылка](https://github.com/theKerimKerimov/leetcode)
+
+**---**
+
+# Hello! 👋
+
+I am an **AI Financier**, developing skills in **Data Science** and **Machine Learning**.  
+
+---
+
+## 🔭 About Me
+- Finance professional with practical experience in data analysis  
+- Specialist in applying AI and ML in finance (**AI Finance**)  
+- Developing skills in Data Science and machine learning  
+- Studying algorithms, data structures, and practical applications of ML  
+- Open to collaboration on projects in data analysis, ML, and AI Finance  
+- Striving for professional growth in Data Science and ML  
+
+---
+
+## 🎓 Education
+**RANEPA**, Bachelor of Economics (2016–2020)  
+Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditing
+
+---
+
+## 📫 Contacts
+- Email: k.kerimow@yandex.ru  
+- Telegram: [@theDagestani](https://t.me/theDagestani)  
+- Kaggle: [Kaggle profile](https://www.kaggle.com/kerimkerimov)  
+- LeetCode solutions: [LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
+
+---
+
+## 🚀 Skills & Tools
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **ML & DS:** Modeling, data preprocessing, visualization, data analysis  
+- **Finance:** Financial analysis, forecasting, AI/ML applications in finance  
+
+---
+
+## 💡 Projects
+- Analysis and prediction of hotel ratings (Booking.com)  
+- User data analysis and recommendation system development  
+- AI/ML projects in finance: forecasting, portfolio optimization, credit scoring  
+- LeetCode solutions — [link](https://github.com/theKerimKerimov/leetcode)
 
