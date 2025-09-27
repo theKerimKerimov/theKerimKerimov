@@ -28,7 +28,6 @@
 - Почта: k.kerimow@yandex.ru
 - Telegram: [@theDagestani](https://t.me/theDagestani)  
 - Kaggle: [Kaggle profile](https://www.kaggle.com/kerimkerimov)  
-- LeetCode решения: [LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
 
 ---
 
@@ -78,7 +77,6 @@ Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditi
 - Email: k.kerimow@yandex.ru  
 - Telegram: [@theDagestani](https://t.me/theDagestani)  
 - Kaggle: [Kaggle profile](https://www.kaggle.com/kerimkerimov)  
-- LeetCode solutions: [LeetCode solutions](https://github.com/theKerimKerimov/leetcode)
 
 ---
 
