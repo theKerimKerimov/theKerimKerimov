@@ -43,7 +43,6 @@
 - Разбор и предсказание рейтингов отелей (Booking.com)  
 - Анализ пользовательских данных и построение рекомендаций  
 - AI/ML проекты в финансах: прогнозирование, оптимизация портфеля, кредитный скоринг  
-- Решения задач с LeetCode — [ссылка](https://github.com/theKerimKerimov/leetcode)
 
 ---
 
@@ -92,5 +91,3 @@ Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditi
 - Analysis and prediction of hotel ratings (Booking.com)  
 - User data analysis and recommendation system development  
 - AI/ML projects in finance: forecasting, portfolio optimization, credit scoring  
-- LeetCode solutions — [link](https://github.com/theKerimKerimov/leetcode)
-
