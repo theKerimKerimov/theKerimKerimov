@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kerim--kerimov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerim-kerimov-79323b400)<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-KerimK-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/KerimK)<br>
 [![Email](https://img.shields.io/badge/Email-k.kerimow%40yandex.ru-EA4335?logo=gmail&logoColor=white)](mailto:k.kerimow@yandex.ru)<br>
-[![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)
+[![Telegram](https://img.shields.io/badge/Telegram-@theDagestani-26A5E4?logo=telegram&logoColor=white)](https://t.me/theDagestani)<br>
 
 - Почта: [k.kerimow@yandex.ru](mailto:k.kerimow@yandex.ru)
 - Telegram: [@theDagestani](https://t.me/theDagestani)
