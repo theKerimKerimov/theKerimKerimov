@@ -65,9 +65,9 @@
 ---
 
 ## 💡 Проекты
-- Разбор и предсказание рейтингов отелей (Booking.com)  
-- Анализ пользовательских данных и построение рекомендаций  
-- AI/ML проекты в финансах: прогнозирование, оптимизация портфеля, кредитный скоринг  
+- Прогнозирование денежных потоков для казначейского планирования
+- Прогнозирование открытия депозитов в банке
+- Прогнозирование стоимости жилья (агентство недвижимости)
 
 ---
 
@@ -138,6 +138,6 @@ Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditi
 ---
 
 ## 💡 Projects
-- Analysis and prediction of hotel ratings (Booking.com)  
-- User data analysis and recommendation system development  
-- AI/ML projects in finance: forecasting, portfolio optimization, credit scoring  
+- Cash Flow Forecasting for Treasury Planning
+- Bank Deposit Subscription Prediction
+- Housing Price Prediction Model for a Real Estate Agency  
