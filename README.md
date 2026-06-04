@@ -108,10 +108,32 @@ Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditi
 ---
 
 ## 🚀 Skills & Tools
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **ML & DS:** Modeling, data preprocessing, visualization, data analysis  
-- **Finance:** Financial analysis, forecasting, AI/ML applications in finance  
+
+**Languages**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+**Libraries**
+
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-44A5C4)](https://seaborn.pydata.org/)
+
+**ML & DS**
+
+![Моделирование](https://img.shields.io/badge/Моделирование-FF6F00)
+![Предобработка данных](https://img.shields.io/badge/Предобработка%20данных-4CAF50)
+![Визуализация](https://img.shields.io/badge/Визуализация-00897B)
+![Анализ данных](https://img.shields.io/badge/Анализ%20данных-5C6BC0)
+
+**Finance**
+
+![Финансовый анализ](https://img.shields.io/badge/Финансовый%20анализ-2E7D32)
+![Прогнозирование](https://img.shields.io/badge/Прогнозирование-558B2F)
+![AI/ML в финансах](https://img.shields.io/badge/AI%2FML%20в%20финансах-00695C)
 
 ---
 
