@@ -124,16 +124,16 @@ Faculty of Finance and Banking, specialization: Accounting, Analysis, and Auditi
 
 **ML & DS**
 
-![Моделирование](https://img.shields.io/badge/Моделирование-FF6F00)
-![Предобработка данных](https://img.shields.io/badge/Предобработка%20данных-4CAF50)
-![Визуализация](https://img.shields.io/badge/Визуализация-00897B)
-![Анализ данных](https://img.shields.io/badge/Анализ%20данных-5C6BC0)
+![Modeling](https://img.shields.io/badge/Modeling-FF6F00)
+![Data preprocessing](https://img.shields.io/badge/Data%20preprocessing-4CAF50)
+![Visualization](https://img.shields.io/badge/Visualization-00897B)
+![Data analysis](https://img.shields.io/badge/Data%20analysis-5C6BC0)
 
 **Finance**
 
-![Финансовый анализ](https://img.shields.io/badge/Финансовый%20анализ-2E7D32)
-![Прогнозирование](https://img.shields.io/badge/Прогнозирование-558B2F)
-![AI/ML в финансах](https://img.shields.io/badge/AI%2FML%20в%20финансах-00695C)
+![Financial analysis](https://img.shields.io/badge/Financial%20analysis-2E7D32)
+![Forecasting](https://img.shields.io/badge/Forecasting-558B2F)
+![AI/ML in finance](https://img.shields.io/badge/AI%2FML%20in%20finance-00695C)
 
 ---
 
